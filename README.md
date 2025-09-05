@@ -1,4 +1,4 @@
-# in2Pages Magazine: A Product Which Keeps Memories
+# in2Pages Magazine:
 
 ## Overview
 
@@ -14,34 +14,9 @@ The "in2Pages Magazine" project was developed by a team of MSc Business Analytic
 *   **Luis Soares** (64376)
 *   **Stella Schwertner** (68369)
 
-## The Problem
+## in2Pages
 
-Traditional yearbooks and digital content consumption present several challenges:
-
-*   **Limited Personalization:** Difficulty in caring about all individuals in large yearbooks (e.g., 2000+ people).
-*   **Digital Fatigue:** Users are "tired of too much digital consumption" and crave tangible memories.
-*   **Content Redundancy:** "Everybody knows already what's in the product" due to prior digital sharing.
-*   **Integration Gap:** The challenge of effectively combining digital and analog media experiences.
-
-## The Solution: in2Pages Web-App
-
-in2Pages addresses these problems by offering a platform that helps users create personalized, community-based print magazines through a seamless web-app.
-
-### How it Works (User Flow)
-
-1.  **Follow** friends, creators & communities.
-2.  **Post** your own 2Pages (content).
-3.  **Customize** your magazine layout and content.
-4.  **Print & Ship** the personalized magazine to your door.
-5.  **Content** is only revealed as a surprise in print (adding a unique reveal experience).
-6.  **Read. Share. Repeat.**
-
-## Business Model & Market Opportunity
-
-*   **Target Market:** The project is starting in the education niche, with an estimated launch in June 2025 targeting the NOVA SBE Bachelor Graduation Yearbook.
-*   **Pipeline:** Projections indicate ~1,400 customers, generating ~€42K revenue.
-*   **Assumption:** Based on 800 Bachelor students + 2,000 Master students at a 50% conversion rate and 30€ per magazine.
-*   **Market:** The print market is a ~€27B TAM (Total Addressable Market) "waiting for an update," with a serviceable addressable market (SAM) of 1.8B€ (Digitally connected adults in stable households) and a serviceable obtainable market (SOM) of 60M€ (University graduates in Western Europe each year).
+in2Page offers a platform that helps users create personalized, community-based print magazines through a seamless web-app.
 
 ## AI Integration: PDF Content Moderation System
 
@@ -87,6 +62,3 @@ The moderation system was tested through a web application.
 *   **Process:** Running the script, opening the webapp, uploading a PDF.
 *   **Result Example:** The webapp displays detected languages (e.g., en, de, fr) and provides text analysis (e.g., "Label: hate (H) (49%)" with an excerpt of offensive text). Image analysis provides flags (e.g., "a nudity scene") or confirms "None".
 
----
-
-This README provides a comprehensive overview of the in2Pages Magazine project, its problem-solution fit, and the detailed implementation of its AI-powered content moderation system.
