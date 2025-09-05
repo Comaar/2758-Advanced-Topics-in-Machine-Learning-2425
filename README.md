@@ -63,4 +63,4 @@ The moderation system was tested through a web application.
 *   **Process:** Running the script, opening the webapp, uploading a PDF.
 *   **Result Example:** The webapp displays detected languages (e.g., en, de, fr) and provides text analysis (e.g., "Label: hate (H) (49%)" with an excerpt of offensive text). Image analysis provides flags (e.g., "a nudity scene") or confirms "None".
 
-![Moderation_app](images/Moderation_app)
+![Moderation_app](images/Moderation_app.png)
