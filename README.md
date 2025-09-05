@@ -1,4 +1,4 @@
-# in2Pages Magazine:
+# in2Pages APP:
 
 ## Overview
 
