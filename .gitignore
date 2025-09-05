@@ -1,0 +1,29 @@
+# Git ignore for 2758-Advanced-Topics-in-Machine-Learning repository
+
+# Ignore logs specific to the moderation app
+moderation_app/progress.log
+
+# General Python ignores
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+.vscode/ # VS Code specific temporary files/settings
+.history/ # VS Code local history
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE specific files
+.idea/ # PyCharm/IntelliJ
+.mypy_cache/
+.pytest_cache/
+.venv/
