@@ -33,6 +33,7 @@ This system screens user-submitted content (text and images within PDFs) before 
 ### Moderation Pipeline
 
 The moderation process involves several stages:
+![Pipeline](images/2Page_digram.png)
 
 1.  **User Uploads Content (PDF):** Via an HTTP POST endpoint.
 2.  **Parsing Layer (PyMuPDF):** Extracts text blocks and embedded images from the PDF.
